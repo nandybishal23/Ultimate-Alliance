@@ -1,0 +1,24 @@
+
+  @import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@1,900&display=swap');
+  @import url('http://fonts.cdnfonts.com/css/avengero');
+  @import url('http://fonts.cdnfonts.com/css/heroes-assemble');
+  body{
+    font-family: 'Avengero', sans-serif;
+    background-image: url(bg.png);
+    background-size:cover;
+  }
+  .btn{
+    display: inline-block;
+    background: #F0131E;
+    color: #fff;
+    padding: 8px 30px;
+    margin: 30px 0;
+    border-radius: 30px;
+    transition:background 0.5s;
+    text-decoration: none;
+  }
+  .btn:hover{
+    background: #fff;
+ color: #F0131E;
+   
+  }
